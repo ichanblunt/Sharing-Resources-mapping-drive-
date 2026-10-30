@@ -68,6 +68,17 @@ Select members and then add
 
 <img width="446" height="247" alt="Screenshot 2026-10-27 144539" src="https://github.com/user-attachments/assets/a7413b68-641c-4bf6-b0e1-a7bde211942c" />
 
+<img width="392" height="447" alt="Screenshot 2026-10-27 144815" src="https://github.com/user-attachments/assets/85c317c8-598c-48cf-9e22-33941264cce9" />
+
+Step 5: Many helpdesk teams will add a description for the security group for the organization. They will put the exact folder location so that it's easy to map the drive from the user's computer.  
+
+The exact folder location is copied and pasted into the security groups description. 
+
+<img width="352" height="467" alt="Screenshot 2026-10-27 152010" src="https://github.com/user-attachments/assets/b851933b-6b96-4a92-82ff-1e58db6cb5cf" />
+
+<img width="396" height="452" alt="Screenshot 2026-10-27 152141" src="https://github.com/user-attachments/assets/a5add31e-ee5b-43e0-8a3a-4bbe79b9e589" />
+
+Then helpdesk can get access to the user's desktop using screen sharing. Go to their file explorer and click map network drive. 
 
 
 
