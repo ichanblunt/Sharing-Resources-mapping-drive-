@@ -80,5 +80,9 @@ The exact folder location is copied and pasted into the security groups descript
 
 Then helpdesk can get access to the user's desktop using screen sharing. Go to their file explorer and click map network drive. 
 
+<img width="537" height="487" alt="Screenshot 2026-10-27 150440" src="https://github.com/user-attachments/assets/17e2c41f-a9f6-496e-8c08-e1c4f1ac83f4" />
 
+Then paste the folder location and now the user has access to that shared folder 
+
+<img width="567" height="233" alt="Screenshot 2026-10-27 152522" src="https://github.com/user-attachments/assets/47f6c854-7b7d-437d-991b-3a5ba03c91ab" />
 
