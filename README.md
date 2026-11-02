@@ -34,7 +34,7 @@ Step 2: Now that a shared folder was created, the folder can be associated with 
 
 Step 3: Now we need to allow the folder to be accessed by the HR security group. So, I'll go back to the HR file and allow access. I'll right click on HR then select properties.  
 
-<img width="450" height="278" alt="Screenshot 2026-10-26 225413" src="https://github.com/user-attachments/assets/ffc29fde-30d2-43f7-82b3-02bf95ef2da0" />
+<img width="685" height="482" alt="Screenshot 2026-10-26 230648" src="https://github.com/user-attachments/assets/18c03efa-5975-42b1-99db-00c48494a9df" />
 
 Click on security then click Advanced. 
 
