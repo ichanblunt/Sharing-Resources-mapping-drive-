@@ -6,7 +6,7 @@ NTFS is a windows file system for organizing files and folders. It allows for sh
 
 Creating a shared folder allows users within the organization to save their data, which can be shared over the network with other users. This allows users to easily share files without ever having to manually send anything.  
 
-Most organizations specify which users can access the shared folders by creating security groups. Only individuals in the group have access to the specific folder. Organizations will sometimes give users 1 specific personal folder for a user to use
+Most organizations specify which users can access the shared folders by creating security groups. Only individuals in the group have access to the specific folder. Organizations will sometimes give users 1 specific personal folder for a user to use.
 
 Step 1: First, a shared folder can be created within the server's local drive. The helpdesk team will need to right click and then select New > Folder 
 
